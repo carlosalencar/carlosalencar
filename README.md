@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Carlos Alencar. I have academic background and professional experience in Information Systems and Software Engineering
-- 🔭 I’m currently working as a Systems Analyst, acting in project management of web systems and Business Intelligence
+- 🔭 I’m currently working as a Systems Analyst, acting in Project Management of web systems and Business Intelligence
 - 🌱 I am currently learning the latest technologies in Python, Data Science and Data Engineering
 - 📫 How to reach me: carlos.alencar@gmail.com
